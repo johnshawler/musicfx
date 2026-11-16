@@ -1,0 +1,9 @@
+dist/*
+!dist/.gitkeep
+bench.txt
+*.o
+*.wav
+!examples/fx/*.wav
+recording*
+__pycache__/
+*.pyc
